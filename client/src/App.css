@@ -1,0 +1,10 @@
+/* App.css - minimal placeholder to satisfy import in App.jsx */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+h1 {
+  margin: 0.5rem 0;
+}
